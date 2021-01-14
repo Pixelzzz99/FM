@@ -18,8 +18,13 @@
     <ClCompile Include="FM.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\Telegram Desktop\Temp (2).cpp">
+    <ClCompile Include="Temp (2).cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="os_file.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
